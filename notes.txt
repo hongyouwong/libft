@@ -1,0 +1,2 @@
+usually use size_t (unsigned, 64 bits) when dealing with memory
+		use int (signed, 32 bits) when counting quantity
